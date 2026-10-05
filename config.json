@@ -30,7 +30,7 @@
       "enabled": true,
       "x": 50,
       "y": 50,
-      "layout": "carousel",
+      "layout": "masonry",
       "bannerPath": "assets/img-002.jpg"
     },
     {
@@ -40,7 +40,7 @@
       "enabled": true,
       "x": 50,
       "y": 17,
-      "layout": "story",
+      "layout": "editorial",
       "bannerPath": "assets/img-003.jpg"
     },
     {
