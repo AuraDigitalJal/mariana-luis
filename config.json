@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "studioVersion": "1.0.4",
+  "studioVersion": "1.0.5",
   "optimizer": {
     "engine": "Aura Digital v5.6.4",
     "profileKB": 500,
@@ -30,7 +30,7 @@
       "enabled": true,
       "x": 50,
       "y": 50,
-      "layout": "masonry",
+      "layout": "story",
       "bannerPath": "assets/img-002.jpg"
     },
     {
@@ -76,22 +76,22 @@
   ],
   "photos": [
     {
-      "id": "pmuvrblp51",
-      "name": "_DSC3030 copia.jpg",
+      "id": "pmuvrbm2g2",
+      "name": "_DSC3037 copia.jpg",
       "section": "getting-ready",
-      "width": 2000,
-      "height": 3000,
+      "width": 3000,
+      "height": 2000,
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
       "path": "assets/img-004.jpg"
     },
     {
-      "id": "pmuvrbm2g2",
-      "name": "_DSC3037 copia.jpg",
+      "id": "pmuvrblp51",
+      "name": "_DSC3030 copia.jpg",
       "section": "getting-ready",
-      "width": 3000,
-      "height": 2000,
+      "width": 2000,
+      "height": 3000,
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
@@ -120,22 +120,22 @@
       "path": "assets/img-007.jpg"
     },
     {
-      "id": "pmuvrbn495",
-      "name": "_DSC3082 copia.jpg",
+      "id": "pmuvrbnh16",
+      "name": "_DSC3095 copia.jpg",
       "section": "getting-ready",
-      "width": 3000,
-      "height": 2000,
+      "width": 2000,
+      "height": 3000,
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
       "path": "assets/img-008.jpg"
     },
     {
-      "id": "pmuvrbnh16",
-      "name": "_DSC3095 copia.jpg",
+      "id": "pmuvrbn495",
+      "name": "_DSC3082 copia.jpg",
       "section": "getting-ready",
-      "width": 2000,
-      "height": 3000,
+      "width": 3000,
+      "height": 2000,
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
@@ -263,8 +263,8 @@
       "path": "assets/img-020.jpg"
     },
     {
-      "id": "pmuvrbrdgj",
-      "name": "_DSC3219 copia.jpg",
+      "id": "pmuvrbqz2i",
+      "name": "_DSC3211 copia.jpg",
       "section": "getting-ready",
       "width": 2000,
       "height": 3000,
@@ -274,8 +274,8 @@
       "path": "assets/img-021.jpg"
     },
     {
-      "id": "pmuvrbqz2i",
-      "name": "_DSC3211 copia.jpg",
+      "id": "pmuvrbrdgj",
+      "name": "_DSC3219 copia.jpg",
       "section": "getting-ready",
       "width": 2000,
       "height": 3000,
@@ -362,28 +362,6 @@
       "path": "assets/img-029.jpg"
     },
     {
-      "id": "pmuvrbtoor",
-      "name": "_DSC3541 copia.jpg",
-      "section": "getting-ready",
-      "width": 2000,
-      "height": 3000,
-      "focusX": 50,
-      "focusY": 50,
-      "fit": "cover",
-      "path": "assets/img-030.jpg"
-    },
-    {
-      "id": "pmuvrbu1ks",
-      "name": "_DSC3549 copia.jpg",
-      "section": "getting-ready",
-      "width": 2000,
-      "height": 3000,
-      "focusX": 50,
-      "focusY": 50,
-      "fit": "cover",
-      "path": "assets/img-031.jpg"
-    },
-    {
       "id": "pmuvrbuzuu",
       "name": "_DSC3571 copia.jpg",
       "section": "getting-ready",
@@ -404,6 +382,28 @@
       "focusY": 50,
       "fit": "cover",
       "path": "assets/img-001.jpg"
+    },
+    {
+      "id": "pmuvrbtoor",
+      "name": "_DSC3541 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-030.jpg"
+    },
+    {
+      "id": "pmuvrbu1ks",
+      "name": "_DSC3549 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-031.jpg"
     },
     {
       "id": "pmuvrbuhyt",
@@ -428,6 +428,17 @@
       "path": "assets/img-033.jpg"
     },
     {
+      "id": "pmuvrbxpo11",
+      "name": "_DSC3904 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-003.jpg"
+    },
+    {
       "id": "pmuvrbwjtx",
       "name": "_DSC3787 copia.jpg",
       "section": "getting-ready",
@@ -448,17 +459,6 @@
       "focusY": 50,
       "fit": "cover",
       "path": "assets/img-035.jpg"
-    },
-    {
-      "id": "pmuvrbxpo11",
-      "name": "_DSC3904 copia.jpg",
-      "section": "getting-ready",
-      "width": 3000,
-      "height": 2000,
-      "focusX": 50,
-      "focusY": 50,
-      "fit": "cover",
-      "path": "assets/img-003.jpg"
     },
     {
       "id": "pmuvrbx78z",
@@ -527,17 +527,6 @@
       "path": "assets/img-041.jpg"
     },
     {
-      "id": "pmuvrbzuv18",
-      "name": "_DSC4229 copia.jpg",
-      "section": "getting-ready",
-      "width": 2000,
-      "height": 3000,
-      "focusX": 50,
-      "focusY": 50,
-      "fit": "cover",
-      "path": "assets/img-042.jpg"
-    },
-    {
       "id": "pmuvrbz6q16",
       "name": "_DSC4169 copia.jpg",
       "section": "getting-ready",
@@ -546,18 +535,7 @@
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-043.jpg"
-    },
-    {
-      "id": "pmuvrbzjv17",
-      "name": "_DSC4189 copia.jpg",
-      "section": "getting-ready",
-      "width": 2000,
-      "height": 3000,
-      "focusX": 50,
-      "focusY": 50,
-      "fit": "cover",
-      "path": "assets/img-044.jpg"
+      "path": "assets/img-042.jpg"
     },
     {
       "id": "pmuvrdr031a",
@@ -568,7 +546,18 @@
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-004.jpg"
+      "path": "assets/img-005.jpg"
+    },
+    {
+      "id": "pmuvrbzuv18",
+      "name": "_DSC4229 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-043.jpg"
     },
     {
       "id": "pmuvrdrdb1b",
@@ -579,18 +568,7 @@
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-005.jpg"
-    },
-    {
-      "id": "pmuvrc06719",
-      "name": "_DSC4332 copia.jpg",
-      "section": "getting-ready",
-      "width": 2000,
-      "height": 3000,
-      "focusX": 50,
-      "focusY": 50,
-      "fit": "cover",
-      "path": "assets/img-045.jpg"
+      "path": "assets/img-004.jpg"
     },
     {
       "id": "pmuvrdrpn1c",
@@ -623,7 +601,18 @@
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-008.jpg"
+      "path": "assets/img-009.jpg"
+    },
+    {
+      "id": "pmuvrbzjv17",
+      "name": "_DSC4189 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-044.jpg"
     },
     {
       "id": "pmuvrdstb1f",
@@ -634,7 +623,7 @@
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-009.jpg"
+      "path": "assets/img-008.jpg"
     },
     {
       "id": "pmuvrdt7y1g",
@@ -690,6 +679,17 @@
       "focusY": 50,
       "fit": "cover",
       "path": "assets/img-014.jpg"
+    },
+    {
+      "id": "pmuvrc06719",
+      "name": "_DSC4332 copia.jpg",
+      "section": "getting-ready",
+      "width": 2000,
+      "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-045.jpg"
     },
     {
       "id": "pmuvrduth1l",
@@ -766,7 +766,7 @@
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-022.jpg"
+      "path": "assets/img-021.jpg"
     },
     {
       "id": "pmuvrdwrc1s",
@@ -777,7 +777,7 @@
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-021.jpg"
+      "path": "assets/img-022.jpg"
     },
     {
       "id": "pmuvrdx6g1t",
@@ -1030,7 +1030,7 @@
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-043.jpg"
+      "path": "assets/img-042.jpg"
     },
     {
       "id": "pmuvre4w12g",
@@ -1052,7 +1052,7 @@
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-042.jpg"
+      "path": "assets/img-043.jpg"
     },
     {
       "id": "pmuvre5ij2i",
