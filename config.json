@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "studioVersion": "1.0.5",
+  "studioVersion": "1.0.9",
   "optimizer": {
     "engine": "Aura Digital v5.6.4",
     "profileKB": 500,
@@ -9,6 +9,8 @@
   "appearance": {
     "style": "organic",
     "studioName": "Nuestra Historia",
+    "brandMode": "text",
+    "logoPath": "",
     "accentColor": "#a58d63",
     "backgroundColor": "#f5f2ec",
     "textColor": "#2f2c28"
@@ -30,7 +32,7 @@
       "enabled": true,
       "x": 50,
       "y": 50,
-      "layout": "story",
+      "layout": "editorial",
       "bannerPath": "assets/img-002.jpg"
     },
     {
@@ -40,7 +42,7 @@
       "enabled": true,
       "x": 50,
       "y": 17,
-      "layout": "editorial",
+      "layout": "masonry",
       "bannerPath": "assets/img-003.jpg"
     },
     {
@@ -1068,8 +1070,23 @@
   ],
   "videos": {
     "enabled": true,
+    "eyebrow": "",
+    "title": "",
+    "items": [
+      {
+        "url": "https://www.youtube.com/watch?v=d4Ku97gojxU&list=RDd4Ku97gojxU&start_radio=1",
+        "label": "Video 1"
+      }
+    ],
     "urls": [
       "https://www.youtube.com/watch?v=d4Ku97gojxU&list=RDd4Ku97gojxU&start_radio=1"
     ]
+  },
+  "music": {
+    "enabled": true,
+    "path": "assets/music.mp3",
+    "name": "Quiet Streams.mp3",
+    "autostart": true,
+    "loop": true
   }
 }
